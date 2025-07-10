@@ -1,9 +1,9 @@
 import { Children } from 'react'
 import { useState } from 'react'
 import confetti from 'canvas-confetti'
-import { Square } from './components/square'
-import { TURNS } from './constants'
-import { WINNER_COMBOS } from './constants'
+import { Square } from './components/Square.jsx'
+import { TURNS } from './constants.js'
+import { WINNER_COMBOS } from './constants.js'
 import './App.css'
 export default App
 
